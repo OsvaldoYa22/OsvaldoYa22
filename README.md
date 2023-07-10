@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy [Osvaldo Yañez](https://osvaldoya22.github.io/)</h1>
+<h1 align="center">Hola 👋, soy [Osvaldo](https://osvaldoya22.github.io/)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
