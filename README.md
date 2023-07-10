@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://osvaldoya22.github.io/">Badri Vishal</a>'s Profile 👋</h1>
+  <h1 align="center">Bienvenidos a mi perfil <a href="https://osvaldoya22.github.io/">Osvaldo Yañez</a> 👋</h1>
 </p>
 
 <h3 align="center">Ingeniero Matemático impulsando decisiones basadas en datos</h3>
