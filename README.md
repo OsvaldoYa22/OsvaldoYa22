@@ -1,5 +1,3 @@
-<h3 align="center"> Hola 👋, soy Osvaldo</h3>
-
 <h3 align="center">Ingeniero Matemático impulsando decisiones basadas en datos</h3>
 
 <h3 align="left">Redes:</h3>
