@@ -1,7 +1,6 @@
-<h1 align="center">Hola 👋, soy Osvaldo Yañez</h1>
+<h1 align="center">Hola 👋, soy [Osvaldo Yañez](https://osvaldoya22.github.io/)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osvaldoya22&label=Profile%20views&color=0e75b6&style=flat" alt="osvaldoya22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osvaldoya22" alt="osvaldoya22" /></a> </p>
 
@@ -18,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osvaldoya22&show_icons=true&locale=en&layout=compact" alt="osvaldoya22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osvaldoya22&show_icons=true&locale=en" alt="osvaldoya22" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osvaldoya22&" alt="osvaldoya22" /></p>
