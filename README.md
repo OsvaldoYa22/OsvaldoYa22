@@ -1,12 +1,9 @@
-<h1 align="center">Hola 👋, soy [Osvaldo](https://osvaldoya22.github.io/)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> Hola 👋, soy Osvaldo</h3>
 
+<h3 align="center">Ingeniero Matemático impulsando decisiones basadas en datos</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osvaldoya22" alt="osvaldoya22" /></a> </p>
+<h3 align="left">Redes:</h3>
 
-
-
-<h3 align="left">Redes</h3>
 <p align="left">
 <a href="https://twitter.com/osvaldogyp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osvaldogyp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/osvaldoypg23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osvaldoypg23" height="30" width="40" /></a>
