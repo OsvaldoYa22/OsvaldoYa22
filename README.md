@@ -30,4 +30,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OsvaldoYa22&repo=app_dash&theme=onedark" />
 </a>
 
+<a href="https://github.com/OsvaldoYa22/OsvaldoYa22.github.io">
+  <!-- Cambia `github-readme-stats.anuraghazra1.vercel.app` por `github-readme-stats.vercel.app` -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OsvaldoYa22&repo=OsvaldoYa22.github.io&theme=onedark" />
+</a>
+
 
