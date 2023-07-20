@@ -2,10 +2,9 @@
   <h1 align="center">Bienvenidos a mi perfil <a href="https://osvaldoya22.github.io/">Osvaldo Yañez</a> 👋</h1>
 </p>
 
-<h3 align="center">Ingeniero Matemático impulsando decisiones basadas en datos</h3>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Ingeniero+Matemático+impulsando+decisiones+basadas+en+datos+GitHub!+.+.+.+.+.+." /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Ingeniero+Matemático" /></a>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/qvFD5FR0adQDLT2n2w/giphy.gif">
