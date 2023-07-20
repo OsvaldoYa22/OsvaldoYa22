@@ -5,7 +5,7 @@
 <h3 align="center">Ingeniero Matemático impulsando decisiones basadas en datos</h3>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Soy+Osvaldo+bienvenidos+a+mi+perfil+de+GitHub!" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Ingeniero+Matemático+impulsando+decisiones+basadas+en+datos+GitHub!" /></a>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/qvFD5FR0adQDLT2n2w/giphy.gif">
@@ -30,9 +30,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OsvaldoYa22&repo=app_dash&theme=onedark" />
 </a>
 
-<a href="https://github.com/OsvaldoYa22/OsvaldoYa22.github.io">
-  <!-- Cambia `github-readme-stats.anuraghazra1.vercel.app` por `github-readme-stats.vercel.app` -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OsvaldoYa22&repo=OsvaldoYa22.github.io&theme=onedark" />
-</a>
+
 
 
