@@ -26,7 +26,7 @@
 
 <a href="https://github.com/OsvaldoYa22/Geospatial-Visualizations">
   <!-- Cambia `github-readme-stats.anuraghazra1.vercel.app` por `github-readme-stats.vercel.app` -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OsvaldoYa22&repo=app_dash&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=OsvaldoYa22&repo=Geospatial-Visualizations&theme=onedark" />
 </a>
 
 
